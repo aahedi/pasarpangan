@@ -484,7 +484,7 @@ cordova.plugins.notification.local.cancelAll(function() {
 }, this);
 }
 
-function pushnotif(){
+function pushnotif(){/*
 if(isAndroid) {
 if (document.getElementById('web') == null) {
 if (localStorage.getItem('regis') === null) {
@@ -525,7 +525,7 @@ push.on('error', function(e) {
 });
 }
 }
-}
+}*/
 }
 
 function rute(){
