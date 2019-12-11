@@ -1,7 +1,7 @@
 var versi = "2";
-var url = "http://pasarpangan.com/app/";
-var url_admin = "http://pasarpangan.com/";
-var api_ongkir = "http://ongkir.tokojs.com/api_ongkir/";
+var url = "https://pasarpangan.com/app/";
+var url_admin = "https://pasarpangan.com/";
+var api_ongkir = "https://ongkir.tokojs.com/api_ongkir/";
 
 var token='6KB4J3xGZX';
 var nama_aplikasi='Pasar Pangan DKPD Grobogan';
